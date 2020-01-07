@@ -1,0 +1,2 @@
+# Tensorflow-
+The Bank Authentication Dataset from the UCI repository is used in this project to predict the authentic notes from 400x400 Pixels images. Features are:  variance of Wavelet Transformed image (continuous) skewness of Wavelet Transformed image (continuous) curtosis of Wavelet Transformed image (continuous) entropy of image (continuous) class (integer) Where class indicates whether or not a Bank Note was authentic.
